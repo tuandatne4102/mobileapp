@@ -1,0 +1,9 @@
+{
+  "appId": "com.quiz.app",
+  "appName": "quizapp",
+  "webDir": "dist",        
+  "server": {
+    "url": "https://quizzapp-5lv7.onrender.com/", 
+    "cleartext": true
+  }
+}
